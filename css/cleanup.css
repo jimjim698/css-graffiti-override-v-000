@@ -4,4 +4,6 @@
   display: none;
 }
 
-.tag-1 + div
+.tag-1 + div {
+  display:none;
+}
